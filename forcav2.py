@@ -13,7 +13,7 @@ def sortir_palavra():
             return random.choice(palavras)
 
 # def sortir_palavra():
-#     palavras = ['python', 'programacao', 'desenvolvedor', 'inteligencia', 'artificial', 'algoritmo', 'computador']
+#     palavras = ['escudo', 'diamante', 'machado', 'espada', 'cenoura', 'batata', 'arroz']
 #     return random.choice(palavras)
 
 def exibir_palavra(palavra, letras_corretas):
